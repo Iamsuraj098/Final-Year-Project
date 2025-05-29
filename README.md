@@ -27,12 +27,12 @@ Traditional identity systems are prone to data breaches, privacy violations, and
 
 ## Key Features
 
-- ✅ Self-Sovereign Identity (SSI)
-- ✅ Blockchain-based verifiable credentials
-- ✅ Selective data disclosure and consent management
-- ✅ Decentralized identifiers (DIDs)
-- ✅ GDPR-friendly off-chain storage options
-- ✅ High-level security and privacy
+- Self-Sovereign Identity (SSI)
+- Blockchain-based verifiable credentials
+- Selective data disclosure and consent management
+- Decentralized identifiers (DIDs)
+- GDPR-friendly off-chain storage options
+- High-level security and privacy
 
 ---
 
